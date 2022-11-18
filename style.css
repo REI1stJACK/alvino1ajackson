@@ -1,35 +1,50 @@
-<html>
-<doctypehyl>
-<h1>futebol</H1>
-<P>Então <strong>futebol</strong> pra mim não é apenas  um passa tempo, uma diversão e sim um esporte que quero levar pra minha vida toda </p>
-<p>O futebol foi um esporte que sempre meu vô gosto, minha mãe, mais as historia que meu vô me contava quando ele jogava sempre me chamou muita atençao  e foi ai por essas historia que comecei a amar o futebol</p>
-<p>Não foi tanta as historias do meu vô que me fez amar o futebol, mais  que me fez tipo amar mais ainda o esporte  que é o futebol e foi ai que tudo se inicio pra mim</p>
-<p><em>quando tudo era um desafio eu olhava e ninguem tava la vi o amor da minha mãe em um pequeno gesto de olhar</em></p>
-
-body{
- 
+header {
+	background: #5CBF5F;
+	padding: 20px 0;
 }
 
-#banner{
-      width:100%;
+.logo {
+	widht: 50px;
+	height: 50px;
 }
 
-.principal{
-        backgroud:#CCCCCC;
-        padding-left:20px;
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
 }
-    
- .titulo-centralizada{
-           text-align:center
- }
- 
-p{
-     text-align:center;
- }
-  
-. #missao{
-       font-size:20px
+
+nav {
+	position: absolute;
+	top: 20px;
+	right: 0;
 }
+
+nav li {
+	display: inline;
+	margin: 0 0 0 30px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 30;
+	text-decoration-color: ;
+}
+
+footer {
+	text-align: center;
+	font-size:  20px;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
   
   
   
